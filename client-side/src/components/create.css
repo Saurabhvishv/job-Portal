@@ -1,0 +1,54 @@
+/* 
+.comp{
+    border: 1px solid rgb(48, 82, 50);
+    background-color: rgb(193, 221, 221);
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top:10px;
+    width: 450px;
+    text-align: center;
+    justify-content: left;
+    
+}
+
+.createTask{
+    border: 1px solid rgba(218, 194, 194, 0.856);
+    background-color: rgb(233, 195, 195);
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top:10px;
+    width: 500px;
+    text-align: center;
+    justify-content: left;
+}
+ */
+
+
+
+ 
+.comp{
+    border: 1px solid rgb(48, 82, 50);
+    background-color: rgb(156, 247, 120);
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top:10px;
+    width: 450px;
+    text-align: center;
+    justify-content: left;
+    
+}
+
+.createTask{
+    border: 1px solid #b7d471da;
+    background-color: rgb(233, 223, 195);
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top:10px;
+    width: 500px;
+    text-align: center;
+    justify-content: left;
+}
